@@ -1,4 +1,6 @@
 
+# This is a learning project from "iOS & Swift - The Complete iOS App Development Bootcamp" by Angela Yu
+
 ![App Brewery Banner](Documentation/AppBreweryBanner.png)
 
 #  BMI Calculator
